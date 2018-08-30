@@ -7,3 +7,6 @@ This is a personal project made using HTML5, CSS, Bootstrap, JavaScript and Jque
 Here it is:
 
 <a href = "https://tanmay7270.github.io/Random-Quote-Machine/" target="_blank"><strong>Random Quote Machine</strong></a> designed and coded by Tanmay Agrawal.
+
+TODO:
+* Generate the quotes using NLP techniques.
